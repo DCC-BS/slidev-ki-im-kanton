@@ -8,7 +8,7 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^52.0.0",
+    "@slidev/cli": "^53.0.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "slidev-addon-animations": "git+https://github.com/DCC-BS/slidev-addon-animations.git",
